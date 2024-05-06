@@ -80,6 +80,24 @@
 #product-image-f {
     background-image: url(../img/6.webp);
 }
+#product-image-a:hover {
+    background-image: url(../img/1b.webp);
+}
+#product-image-b:hover {
+    background-image: url(../img/2b.webp);
+}
+#product-image-c:hover {
+    background-image: url(../img/3b.webp);
+}
+#product-image-d:hover {
+    background-image: url(../img/4b.webp);
+}
+#product-image-e:hover {
+    background-image: url(../img/5b.webp);
+}
+#product-image-f:hover {
+    background-image: url(../img/6b.webp);
+}
 .product-tags {
     display: flex;
     align-items: center;
@@ -147,13 +165,11 @@
     color: white;
     text-decoration: none;
 }
-
 .social-icon {
     display: flex;
     gap: 10px;
     margin-top: 10px ;
 }
-
 .social-media a {
     text-decoration: none;
     color: white;
