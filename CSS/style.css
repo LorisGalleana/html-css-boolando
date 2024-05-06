@@ -21,6 +21,7 @@
     justify-content: space-between;
     gap: 10px;
     margin: auto;
+    color: white;
 }
 .logo {
     display: flex;
